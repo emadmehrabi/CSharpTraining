@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CSharpTraining
+﻿namespace CSharpTraining
 {
     public class MyMathMethods
     {
